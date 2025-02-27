@@ -93,6 +93,9 @@ header{
 
 
 }
+a i {
+    font-size: 1.3rem;
+}
 span{
     color: var(--hover-color);
 
